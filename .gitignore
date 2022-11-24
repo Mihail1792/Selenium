@@ -35,4 +35,4 @@ Makefile
 node_modules
 
 doc-dev
-senv/
+/senv/
